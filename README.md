@@ -14,6 +14,18 @@
 [How containers can bring AI and blockchain to your apps](https://www.infoworld.com/article/3243144/containers/how-containers-can-bring-ai-and-blockchain-to-your-apps.html)<br>
 [Using Helm to Deploy Blockchain to Kubernetes](https://www.microsoft.com/developerblog/2018/02/09/using-helm-deploy-blockchain-kubernetes/)<br>
 
+## CI-CD | Docker | Kubernetes
+
+[Test-Drive Continuous Integration Pipeline using Docker, Jenkins & GitHub under $0](http://collabnix.com/5-minutes-to-continuous-integration-pipeline-using-docker-jenkins-github-on-play-with-docker-platform/)<br>
+
+## ELK | Docker | Kubernetes
+
+
+## Prometheus Stack | Docker | Kubernetes
+
+
+
+
 
 
 
